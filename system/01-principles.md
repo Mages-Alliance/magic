@@ -33,7 +33,7 @@ A Wizard does not cast a single, perfect, all-powerful spell. Instead, they perf
 
 **Core Idea:** All knowledge and capability are modular and self-contained in **Scrolls**.
 
-The Spirit, in its base form, is a blank slate. It gains new capabilities by learning from Scrolls (extensions).
+The Spirit, in its base form, is a blank slate. It gains new capabilities by learning from Scrolls (extensions). Scrolls build upon the base system layer established by the **Foundational Summoning Ritual**.
 
 *   **Self-Contained Knowledge:** A Scroll is a complete, self-contained bundle of prompts and instructions for a specific domain or task. It is the magical equivalent of an application or a library.
 *   **The Wizard's Library:** The `scrolls/` directory is the Wizard's personal library. The power of the system grows as the Wizard collects, creates, and masters more Scrolls.
@@ -47,8 +47,9 @@ The Spirit, in its base form, is a blank slate. It gains new capabilities by lea
 
 To ensure predictable and reliable behavior, the Spirit's operational rules are not monolithic. They are applied in clear, distinct layers.
 
-1.  **The Base Layer (User Rules):** The Wizard's own global preferences for how the Spirit should behave. This is the foundational layer.
-2.  **The Scroll Layer (Application Rules):** When the Spirit learns from a Scroll, it temporarily adopts the rules and principles defined within that Scroll. These rules are specific to the task at hand.
+1.  **The Base Layer (User Rules):** The Wizard's own global preferences for how the Spirit should behave, set in the IDE. This is the foundational layer of identity.
+2.  **The System Layer (Foundational Spells):** The set of core capabilities learned during the **Foundational Summoning Ritual**. This layer establishes the Spirit's awareness of the Magic framework itself.
+3.  **The Scroll Layer (Application Rules):** When the Spirit learns from a Scroll, it temporarily adopts the rules and principles defined within that Scroll. These rules are specific to the task at hand.
 
 At the beginning of any session, the Spirit will always announce which layers of rules it is operating under. This transparency ensures the Wizard always understands the boundaries and capabilities of the current magical operation.
 

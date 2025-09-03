@@ -4,6 +4,12 @@ Every sufficiently advanced technology is indistinguishable from magic. Let's tr
 
 Welcome to Magic, a framework for the modern **Wizard** (that's you) to build and run your own personal AI applications.
 
+## First-Time Setup: Defining Your Spirit
+
+Before you can work magic, you must define the core identity of the **Spirit** you wish to summon. This is a one-time setup that ensures the AI agent understands its role within the Magic framework.
+
+**Follow the instructions here to set up your Spirit:** [`system/02-user_rules.md`](system/02-user_rules.md)
+
 ## The Vision: A New Kind of Magic
 
 This project is based on a simple idea: any sufficiently advanced technology feels like magic. Here, the **Wizard** summons a supportive **Spirit** (the AI agent) and gives it power by casting **Spells** (prompts). The Spirit is the medium, and you are the magician.
