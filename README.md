@@ -23,10 +23,10 @@ Follow the instructions for the "Qualified Self State" to have the Spirit learn 
 
 ## The Extension Ecosystem
 
-The true power of Pythia lies in its modular, git-based extension system. All applications are treated as self-contained extensions that add new capabilities to the core agent.
+The true power of Magic lies in its modular, git-based extension system. All applications are treated as self-contained **Scrolls** that add new capabilities to the core Spirit. These Scrolls are located in the `scrolls/` directory.
 
-### Included Extension: The Qualified Self
-This repository comes with the flagship extension, **The Qualified Self**, which turns the agent into a powerful tool for self-reflection. For more information, see the `README.md` inside `extensions/qualified_self/`.
+### Included Scroll: The Qualified Self
+This repository comes with the flagship scroll, **The Qualified Self**, which turns the Spirit into a powerful tool for self-reflection. For more information, see the `README.md` inside `scrolls/qualified_self/`.
 
 ## Developer's Vision: The Future We're Building
 
