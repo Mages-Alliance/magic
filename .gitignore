@@ -1,0 +1,12 @@
+# Ignore user-specific configuration
+config.py
+
+# Ignore all user data and generated reports
+data/
+reports/
+
+# Standard Python ignores
+__pycache__/
+*.pyc
+.venv/
+
