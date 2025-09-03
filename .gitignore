@@ -12,5 +12,8 @@ __pycache__/
 
 
 # Ignore all scrolls and user data
-scrolls/
+# Ignore the contents of the scrolls directory...
+scrolls/*
+# ...but keep the directory itself.
+!scrolls/.gitkeep
 data/
