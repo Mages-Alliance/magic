@@ -15,9 +15,9 @@ The standard ritual involves:
 
 ## Getting Started: The Spellbook
 
-To begin, you must consult the **Spellbook** (our Bootstrap Registry) to learn the correct sequence of spells for the Scroll you want the Spirit to learn from.
+To begin, you must consult the **Spellbook** to learn the correct sequence of spells for the Scroll you want the Spirit to learn from.
 
-**Open the Spellbook to begin:** `system/00-registry.md`
+**Open the Spellbook to begin:** `system/00-spellbook.md`
 
 Follow the instructions for the "Qualified Self State" to have the Spirit learn from its first and most important Scroll.
 
