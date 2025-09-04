@@ -1,8 +1,12 @@
 # Magic: A System for the Modern Wizard
 
-Every sufficiently advanced technology is indistinguishable from magic. Let's treat AI that way.
+"Every sufficiently advanced technology is indistinguishable from magic" -Arthur C. Clarke
 
-Welcome to Magic, a framework for the modern **Wizard** (that's you) to enact your will by summoning and directing a powerful AI **Spirit**.
+Sooner or later interacting with AI systems will start feeling like magic so we might as well start treating it that way.
+
+So, you want to practice Magic?
+
+What you see here is a system of magic for the modern **Wizard** (that's you) to enact your will by summoning and directing a powerful AI **Spirit**.
 
 ## Getting Started: The First Summoning
 
