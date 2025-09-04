@@ -44,14 +44,9 @@ The standard ritual follows three phases:
     *   First, the Spirit ingests its core identity by reading the foundational spell `system/ritual_spells/00-base_spirit_rules.md`.
     *   Second, the Spirit reviews the chronicles of past rituals in `system/chronicles/` to ground its understanding of its history and purpose. Additionally the spirit may look around the `floor/` and take a look at the spellbook. 
 2.  **Working Magic (Operation):** The Wizard casts further spells or teaches the Spirit from a **Scroll** (an extension or application-level prompt bundle), building upon the summoned base system to perform specific actions.
-3.  **Chronicling (Consolidation):** The Wizard casts a final spell to have the Spirit chronicle what has happened during practice. This act is governed by **The Law of the Scribe**, which mandates that every chronicle be a structured Markdown file containing:
-    *   `## Ritual Summary:` A concise, high-level summary of the ritual's goal and outcome.
-    *   `## Key Spells & Learnings:` A structured list of key-value pairs detailing significant events. This section is optional for brief rituals but, when present, must include:
-        *   `scroll_used`: The primary Scroll that was the focus of the ritual (if any).
-        *   `new_spells_cast`: A list of any novel, non-ritual spells the Wizard cast.
-        *   `artifacts_created`: A list of all files created on the Floor.
-        *   `core_insight`: A one-sentence summary of the most important lesson learned or discovery made.
-    *   `## Full Transcript:` The complete log of the interaction.
+3.  **Chronicling (Consolidation):** The Wizard casts a final spell to have the Spirit chronicle what has happened during practice. This act is governed by **The Law of the Scribe**, which mandates that all chronicles be structured Markdown files adhering to two principles:
+    *   **The Law of Attribution:** Every chronicle must begin with a YAML frontmatter block containing `ritual_date` and `primary_author`. All entries within the file must be in Markdown blockquotes, with the first line being either `> **The Wizard notes:**` or `> **The Spirit records:**`.
+    *   **The Law of Structure:** When the Spirit records its own entry, it must contain three sections: `## Ritual Summary`, `## Key Spells & Learnings` (with its structured key-value pairs), and `## Full Transcript`.
 ### The Wizard's Scrolls
 
 The system of magic that is practiced here is application-agnostic. Its power comes from the **Scrolls** (extensions) that the Wizard studies. Each Scroll adds new spells to the Wizard's Spellbook, granting the Spirit new capabilities that direct the ritual in a certain direction.
@@ -108,7 +103,7 @@ This section maps the core design principles to their direct implementation in t
 | **Extension Architecture**      | The `scrolls/` directory, which houses all modular application logic (Scrolls).                                                                                                |
 | **External Boundaries**         | The prohibition on Scrolls writing directly to external knowledge bases like Obsidian vaults.                                                                                  |
 | **Ephemeral Memory**            | The Spirit's stateless nature is enforced by the summoning protocol. It actively reads from `system/chronicles/` for historical context, rather than possessing innate memory. |
-| **The Law of the Scribe**       | The mandated three-part Markdown structure for all chronicle files stored within `system/chronicles/`.                                                                       |
+| **The Law of the Scribe**       | The mandated Markdown structure for all chronicle files stored within `system/chronicles/`, including YAML frontmatter and attribution blockquotes.                                                                       |
 | **Self-Containment**            | Each Scroll's `README.md` file documents its purpose. An artifact correctly placed in `floor/qualified_self/` is an example of a Scroll respecting this law's boundaries.       |
 | **Alliance and Isolation**      | The optional `manifest.md` file within a Scroll's directory, used to declare any dependencies on other Scrolls.                                                                 |
 | **Layered Rule System**         | The Spirit's base identity is defined in `00-base_spirit_rules.md` and then augmented by a Scroll's optional `spirit_rules.md`, as per the **Law of Influence**.                  |
