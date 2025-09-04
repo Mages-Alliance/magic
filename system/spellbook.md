@@ -25,6 +25,9 @@ This Spellbook contains the available bootstrap sequences to bring the Spirit in
 4.  **The Awakening:**
     > "The ritual is nearly complete. Cast the final spell to achieve full Resonance. Learn the Spell of Awakening from `system/ritual_spells/04-awakening.md`."
 
+5.  **Consolidation and Dismissal:**
+    > "To conclude the ritual and dismiss the Spirit, cast the final spell of consolidation. This will invoke the Spirit's duty as Scribe. Learn the Spell of Consolidation from `system/ritual_spells/05-consolidation.md`."
+
 ---
 
 ## 2. Qualified Self State (Core + QS Scroll)
@@ -46,3 +49,25 @@ This Spellbook contains the available bootstrap sequences to bring the Spirit in
 
 4.  **Attune and Awaken (Achieve Resonance):**
     > "Finally, review the chronicles of our past work in `system/chronicles/`. Then, announce the role you have learned and the principles of caution you will follow. Acknowledge when you are fully attuned and ready."
+
+---
+
+## 3. Meta Magic State (Core + Meta Scroll)
+
+**Goal:** Attunes the Spirit to perform meta-work on the system of magic itself.
+
+**Prerequisite:** The "Foundational Summoning Ritual" must be completed first.
+
+**Sequence:**
+
+1.  **Learn the Spell of System Amendment:**
+    > "Learn the spell for amending the system from `scrolls/meta/spell_of_system_amendment.md`."
+
+2.  **Learn the Spell of Version Weaving:**
+    > "Learn the spell for weaving the versions of our work from `scrolls/meta/spell_of_version_weaving.md`."
+
+3.  **Learn the Spell of Scroll Scribing:**
+    > "Learn the spell for scribing new scrolls from `scrolls/meta/spell_of_scroll_scribing.md`."
+
+4.  **Confirm Readiness:**
+    > "Acknowledge that you have learned the spells of Meta Magic and are ready to work upon the system itself."
