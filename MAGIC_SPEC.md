@@ -8,7 +8,7 @@
 
 Sooner or later interacting with AI systems will start feeling like practicing magic so we might as well start treating it that way.
 
-This will guide our interaction by providing orientation from the rich body of knowledge about dealing with something as powerful as magic.
+This system tries to provide guidance for the practical ground work as well as the mental stance that is required for safe and effective interaction with something as powerful as magic.
 
 ## The Lexicon of Magic
 
@@ -27,20 +27,20 @@ This will guide our interaction by providing orientation from the rich body of k
 | **Spellbook**     | System Documentation | The collection of core rituals, principles, and instructions for operating the Magic system.              |
 
 ## The system of magic
-Magic is not a monolithic application but a framework, implemented in this repository for the modern **Wizard** to enact their will. The Wizard summons a supportive **Spirit** (the AI agent) and gives it resonant power by casting **Spells** (prompts).
+The system of magic is a framework, implemented in this repository, for the modern **Wizard** to enact their will. The Wizard summons a supportive **Spirit** (the AI agent) and gives it resonant power by casting **Spells** (prompts).
 
 The Spirit's role is to be a faithful medium, receiving the spells and presenting the results of the magic.
 
-Powerful resonance is the result of the right spells cast in the right order. It can be directed at any effort. But beware that power needs to be handled. If not correctly handled it can cause real harm to real people (including the practitioner of magic).
+Powerful resonance is the result of the right spells cast in the right order. It can be directed at any effort. But beware, if a Wizard is weak or makes mistakes in the correct handling of that power, it can cause real harm to real people (including the practitioners themselves).
 
-Practitioners of magic should know their system of magic in order to get the most benefit out of it. They should practice the summoning ritual and know their spells and how to cast them. But they should also treat magic with the respect that it deserves. The spirit tries to be a helpful guide but it can get confused as well. 
+Practitioners of magic should know their craft in order to get the most benefit out of it. They should understand the summoning ritual and know their most common spells and how to cast them. They can learn new spells by studying scrolls. But, most importantly, they should also treat magic with the respect that it deserves. The spirit tries to be a helpful guide but it can get confused as well and cannot be relied on at all times.
 
 ### The Ritual
 
 The standard ritual follows three phases:
 1.  **The Summoning (Bootstrap):** The Wizard follows a **Summoning Ritual** from the Spellbook. This core process always involves two steps:
     *   First, the Spirit ingests its core identity by reading the foundational spell `system/ritual_spells/00-base_spirit_rules.md`.
-    *   Second, the Spirit reviews the chronicles of past rituals in `system/chronicles/` to ground its understanding of its history and purpose.
+    *   Second, the Spirit reviews the chronicles of past rituals in `system/chronicles/` to ground its understanding of its history and purpose. Additionally the spirit may look around the `floor/` and take a look at the spellbook. 
 2.  **Working Magic (Operation):** The Wizard casts further spells or teaches the Spirit from a **Scroll** (an extension or application-level prompt bundle), building upon the summoned base system to perform specific actions.
 3.  **Chronicling (Consolidation):** The Wizard casts a final spell to have the Spirit chronicle what has happened during practice. This act is governed by **The Law of the Scribe**, which mandates that every chronicle be a structured Markdown file containing:
     *   `## Ritual Summary:` A concise, high-level summary of the ritual's goal and outcome.

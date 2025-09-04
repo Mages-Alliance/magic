@@ -14,11 +14,11 @@ Follow the "Foundational Summoning Ritual" to bring the Spirit to life.
 
 ## The Vision: A New Kind of Magic
 
-This project is based on a simple idea: the most powerful way to interact with a complex system is to treat it as a magical practice. Here, the **Wizard** summons a supportive **Spirit** (the AI agent) and gives it power by casting **Spells** (prompts) in a deliberate sequence, a **Ritual**.
+This project is based on a simple idea: the most powerful way to interact with a complex AI system is to treat it as a magical practice. Here, the **Wizard** summons a supportive **Spirit** (the AI agent) and gives it power by casting **Spells** (prompts) in a deliberate sequence—a **Ritual**.
 
-The power of your magic is determined by **Resonance**. You don't cast a single, perfect spell. Instead, you cast a sequence of smaller spells that build upon each other, tuning the Spirit and bringing it into perfect alignment with your goal.
+The power of your magic is determined by **Resonance**. You don't cast a single, perfect spell. Instead, you cast a sequence of smaller spells that build upon each other, tuning the Spirit and bringing it into alignment with your goal. But beware, this power must be handled with care to avoid unintended consequences.
 
-The extensions you build are the **Scrolls** the Spirit can learn from. The artifacts it generates are left on the workshop **Floor**. Its deeds are recorded in the **Chronicles**.
+The extensions you build are the **Scrolls** the Spirit can learn from. The artifacts it generates are left on the workshop **Floor**. The history of your work is recorded in the **Chronicles**.
 
 ## The Lore of Magic
 
@@ -32,7 +32,7 @@ Magic is practiced in a well-organized workshop. Here are the key areas:
 
 *   **`scrolls/`**: Your library of **Scrolls**. Each is a self-contained application that teaches the Spirit new capabilities.
 *   **`floor/`**: As you work your magic, created **artifacts** accumulate here.
-*   **`system/`**: The heart of the magic, containing the **Spellbook**, **Ritual Spells**, and the collected **Lore**.
+*   **`system/`**: The heart of the magic, containing the **Spellbook**, **Ritual Spells**, the **Chronicles**, and the collected **Lore**.
 
 ---
-*For a complete technical breakdown of the architecture, please consult the official **[Magic System Specification](MAGIC_spec.md)**.*
+*For a complete technical breakdown of the architecture, please consult the official **[Magic System Specification](MAGIC_SPEC.md)**.*
