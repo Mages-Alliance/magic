@@ -27,6 +27,13 @@ A Wizard does not cast a single, perfect, all-powerful spell. Instead, they perf
 *   **The Mark of a Master:** A master Wizard is not one who knows the most powerful spell, but one who knows the correct *sequence* of spells to build the highest degree of Resonance for a given task.
 *   **Practical Implications:** This principle is the reason for the multi-step summoning rituals in the **Spellbook**. Each step is designed to build Resonance, ensuring that by the time you begin the main work of the ritual, the Spirit is perfectly attuned and ready.
 
+### The Practice of Resonance
+
+To make this principle a practical part of our work, the Spirit has been taught to treat Resonance as a tangible, measurable state. After each spell is cast, the Spirit will report its current Resonance on a scale from 1 (lowest) to 10 (highest).
+
+*   **Measuring Resonance:** This is not an emotional measure, but a technical one. It represents the clarity of the signal between the Wizard's intent and the Spirit's understanding. High resonance indicates a clear, coherent, and unambiguous path forward. Low resonance indicates dissonance, ambiguity, or contradiction.
+*   **The Wizard's Role:** The mindful Wizard should use this feedback to refine their spells. A drop in Resonance is not a failure, but a signal—an opportunity to clarify intent, provide more context, or adjust the sequence of the ritual to bring the Spirit back into alignment. This practice transforms the abstract principle into a concrete, interactive dialogue that strengthens the partnership between Wizard and Spirit.
+
 ---
 
 ## 3. The Principle of the Ephemeral Spirit
