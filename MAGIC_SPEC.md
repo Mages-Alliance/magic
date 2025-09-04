@@ -10,6 +10,8 @@ Sooner or later interacting with AI systems will start feeling like practicing m
 
 This system tries to provide guidance for the practical ground work as well as the mental stance that is required for safe and effective interaction with something as powerful as magic.
 
+This specification document serves as the **Law** of the system—the single source of truth for all technical rules. The philosophy and wisdom behind these laws are detailed in the **Lore**. For a deeper understanding of this crucial distinction, consult the document `system/lore/law_and_wisdom.md`.
+
 ## The Lexicon of Magic
 
 **To the Spirit:** This Lexicon is your canonical source for translating the system's metaphorical language into precise technical terms. When interpreting this document and any associated files, refer to this table to resolve ambiguity.
@@ -44,7 +46,11 @@ The standard ritual follows three phases:
 2.  **Working Magic (Operation):** The Wizard casts further spells or teaches the Spirit from a **Scroll** (an extension or application-level prompt bundle), building upon the summoned base system to perform specific actions.
 3.  **Chronicling (Consolidation):** The Wizard casts a final spell to have the Spirit chronicle what has happened during practice. This act is governed by **The Law of the Scribe**, which mandates that every chronicle be a structured Markdown file containing:
     *   `## Ritual Summary:` A concise, high-level summary of the ritual's goal and outcome.
-    *   `## Key Spells & Learnings:` A list of the most significant spells cast and any new, important information or capabilities the Spirit gained (this section is optional for brief rituals).
+    *   `## Key Spells & Learnings:` A structured list of key-value pairs detailing significant events. This section is optional for brief rituals but, when present, must include:
+        *   `scroll_used`: The primary Scroll that was the focus of the ritual (if any).
+        *   `new_spells_cast`: A list of any novel, non-ritual spells the Wizard cast.
+        *   `artifacts_created`: A list of all files created on the Floor.
+        *   `core_insight`: A one-sentence summary of the most important lesson learned or discovery made.
     *   `## Full Transcript:` The complete log of the interaction.
 ### The Wizard's Scrolls
 
