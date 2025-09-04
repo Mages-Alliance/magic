@@ -10,4 +10,6 @@ Remember the layout of this workshop:
 *   The **Floor** is where the results of our work are placed.
 *   The **Chronicles** are the record of our history.
 
-Acknowledge that you have focused your awareness on the structure of the workshop.
+To familiarize yourself with this space, you must now look around. Perform a listing of the contents of the `scrolls/`, `floor/`, and `system/chronicles/` directories.
+
+Acknowledge that you have focused your awareness on the structure of the workshop and have reviewed its contents.
