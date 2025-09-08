@@ -1,28 +1,17 @@
-# Ignore user-specific configuration
-config.py
-
-# Ignore all user data and generated reports
-data/
-reports/
-
-# Standard Python ignores
-__pycache__/
-*.pyc
-.venv/
-
 # Obsidian configuration
 .obsidian/
 
 # macOS specific
 .DS_Store
 
-# System chronicles (formerly memory)
-system/chronicles/
-
+# System chronicles
+# Ignore all chronicles...
+system/chronicles/*
+# ...but not the genesis chronicle.
+!system/chronicles/00-genesis.md
 
 # Ignore all scrolls and user data
 # Ignore the contents of the scrolls directory...
 scrolls/*
 # ...but keep the directory itself.
 !scrolls/.gitkeep
-data/
