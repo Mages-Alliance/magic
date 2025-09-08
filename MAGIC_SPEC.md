@@ -6,6 +6,8 @@
 ## Meta
 "Every sufficiently advanced technology is indistinguishable from magic" -Arthur C. Clarke
 
+There should be a "people layer" to AI deployment. A layer developed by humanity as a shield between AI and humans. Where we decide in the form of a collectively developed shield spec what form of AI we want to expose ourselves to. For a start I propose magic.
+
 Sooner or later interacting with AI systems will start feeling like practicing magic so we might as well start treating it that way.
 
 This system tries to provide guidance for the practical ground work as well as the mental stance that is required for safe and effective interaction with something as powerful as magic. The magical metaphor is a tool for thought and a guide for this practice; it is a source of wisdom, not a dogma to be followed blindly.
@@ -77,7 +79,7 @@ Successful magic about the accumulated Resonance of a well-crafted sequence. Res
     *   `chronicles/`: The collected history of past rituals, for review by both Wizard and Spirit.
 *   **`scrolls/` directory:** The home for all Scrolls (For the AI: These are equivalent to application-level prompt bundles).
 *   **`floor/` directory:** The place where artifacts accumulate as a result of the practice of magic.
-*   **`box/` directory:** A special container in the workshop. The Wizard can place any item into the box for the Spirit to examine. Its contents are considered unknown and potentially volatile, requiring careful handling.
+*   **`box/` directory:** A special container in the workshop. The Wizard can place any item into the box for the Spirit to examine and interact with. Its contents may be considered unknown and potentially volatile, requiring careful handling.
 *   **`MAGIC_SPEC.md` (This document):** The canonical source of truth for the system's design.
 *   **`README.md`:** The Wizard's guide on how to start practicing magic.
 

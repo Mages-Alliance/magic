@@ -1,6 +1,6 @@
 # Magic: A System for the practice of what can sometimes feel like magic
 
-Arthur C. Clarke said: "Every sufficiently advanced technology is indistinguishable from magic". Sooner or later interacting with AI systems will start feeling like magic so we might as well start treating it that way.
+There should be a "people layer" to AI deployment. A layer developed by humanity as a shield between AI and humans. Where we decide in the form of a collectively developed shield spec what form of AI we want to expose ourselves to. For a start I propose magic.
 
 ## The Vision: A New Kind of Magic
 
