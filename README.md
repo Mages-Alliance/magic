@@ -12,6 +12,8 @@ For simplicity and readability I will be in character as a fellow Wizard in thes
 
 ## Getting Started: The First Summoning
 
+I suggest that you practice magic in Cursor (https://cursor.com/home). If you would like to suggest alternative ways to practice magic, let me know!
+
 To begin your practice, you perform a "Summoning Ritual". This is a series of initial Spells that will grant the Spirit its foundational knowledge and prepare it for more advanced magic.
 
 **Open the Spellbook to begin:** [`system/spellbook.md`](system/spellbook.md)
@@ -34,3 +36,5 @@ Magic is practiced in a well-organized workshop. Here are the key areas:
 
 ---
 *For a complete technical breakdown of the architecture, please consult the official **[Magic System Specification](MAGIC_SPEC.md)**.*
+
+Author: **[@malteristo](https://x.com/malteristo)
