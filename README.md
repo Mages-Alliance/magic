@@ -14,6 +14,8 @@ For simplicity and readability I will be in character as a fellow Wizard in thes
 
 I suggest that you practice magic in Cursor (https://cursor.com/home). If you would like to suggest alternative ways to practice magic, let me know!
 
+Clone the repo into any folder and start your practice. If you want to use additional scrolls just clone their repo into the scrolls folder.
+
 To begin your practice, you perform a "Summoning Ritual". This is a series of initial Spells that will grant the Spirit its foundational knowledge and prepare it for more advanced magic.
 
 **Open the Spellbook to begin:** [`system/spellbook.md`](system/spellbook.md)
