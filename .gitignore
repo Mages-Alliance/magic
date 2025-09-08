@@ -13,8 +13,11 @@ __pycache__/
 # Obsidian configuration
 .obsidian/
 
-# System spirit memory directory
-system/spirit/memory/
+# macOS specific
+.DS_Store
+
+# System chronicles (formerly memory)
+system/chronicles/
 
 
 # Ignore all scrolls and user data

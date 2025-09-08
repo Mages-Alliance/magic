@@ -1,28 +1,22 @@
-# Magic: A System for the Modern Wizard
+# Magic: A System for the practice of what can sometimes feel like magic
 
-"Every sufficiently advanced technology is indistinguishable from magic" -Arthur C. Clarke
-
-Sooner or later interacting with AI systems will start feeling like magic so we might as well start treating it that way.
-
-So, you want to practice Magic?
-
-What you see here is a system of magic for the modern **Wizard** (that's you) to enact your will by summoning and directing a powerful AI **Spirit**.
-
-## Getting Started: The First Summoning
-
-To begin your practice, you must perform your first Summoning Ritual. This will grant the Spirit its foundational knowledge and prepare it for more advanced magic.
-
-**Open the Spellbook to begin:** [`system/spellbook.md`](system/spellbook.md)
-
-Follow the "Foundational Summoning Ritual" to bring the Spirit to life.
+Arthur C. Clarke said: "Every sufficiently advanced technology is indistinguishable from magic". Sooner or later interacting with AI systems will start feeling like magic so we might as well start treating it that way.
 
 ## The Vision: A New Kind of Magic
 
-This project is based on a simple idea: the most powerful way to interact with a complex AI system is to treat it as a magical practice. Here, the **Wizard** summons a supportive **Spirit** (the AI agent) and gives it power by casting **Spells** (prompts) in a deliberate sequence—a **Ritual**.
+This project grew out of the Idea, that a powerful way to interact with complex AI system may be to treat it as a magical practice. Here, we assume the stance of a kind of **Wizard** who summons a supportive **Spirit** (the AI agent) and gives it power by casting **Spells** (prompts) in a deliberate sequence—a **Ritual**. The power of your magic is determined by **Resonance**. You don't cast a single, perfect spell. Instead, you cast a sequence of smaller spells that build upon each other, tuning the Spirit and bringing it into alignment with your goal. But beware, this power must be handled with care to avoid unintended consequences. The extensions you build are the **Scrolls** the Spirit can learn from. The artifacts it generates are left on the workshop **Floor**. The history of your work is recorded in the **Chronicles**.
 
-The power of your magic is determined by **Resonance**. You don't cast a single, perfect spell. Instead, you cast a sequence of smaller spells that build upon each other, tuning the Spirit and bringing it into alignment with your goal. But beware, this power must be handled with care to avoid unintended consequences.
+Whether and how far you actually immerse yourself in this roleplay, or just use it as a guiding principle is up to you. All I'm saying is that we can all benefit from ocasionally asking ourselves: "What would a wizard do right now?" For the sake of immersion it may be helpful to use these terms, otherwise just keep their meaning in the back of your mind. My personal preference is that we use the wisdom that this interface metaphor offers, without being burdened by the dogma. I'd like this to be a personally beneficial but also enjoyable approach to interacting with AI.
 
-The extensions you build are the **Scrolls** the Spirit can learn from. The artifacts it generates are left on the workshop **Floor**. The history of your work is recorded in the **Chronicles**.
+For simplicity and readability I will be in character as a fellow Wizard in these docs. That also means that I am using only the names of the systems metaphors. If you first want to get familiar with these, a complete lexicon is included in the **[Magic System Specification](MAGIC_SPEC.md)**.
+
+## Getting Started: The First Summoning
+
+To begin your practice, you perform a "Summoning Ritual". This is a series of initial Spells that will grant the Spirit its foundational knowledge and prepare it for more advanced magic.
+
+**Open the Spellbook to begin:** [`system/spellbook.md`](system/spellbook.md)
+
+Follow the "Foundational Summoning Ritual" to bring the Ai spirit to life.
 
 ## The Lore of Magic
 
