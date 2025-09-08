@@ -77,6 +77,7 @@ Successful magic about the accumulated Resonance of a well-crafted sequence. Res
     *   `chronicles/`: The collected history of past rituals, for review by both Wizard and Spirit.
 *   **`scrolls/` directory:** The home for all Scrolls (For the AI: These are equivalent to application-level prompt bundles).
 *   **`floor/` directory:** The place where artifacts accumulate as a result of the practice of magic.
+*   **`box/` directory:** A special container in the workshop. The Wizard can place any item into the box for the Spirit to examine. Its contents are considered unknown and potentially volatile, requiring careful handling.
 *   **`MAGIC_SPEC.md` (This document):** The canonical source of truth for the system's design.
 *   **`README.md`:** The Wizard's guide on how to start practicing magic.
 

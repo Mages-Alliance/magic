@@ -34,6 +34,7 @@ Magic is practiced in a well-organized workshop. Here are the key areas:
 
 *   **`scrolls/`**: Your library of **Scrolls**. Each is a self-contained application that teaches the Spirit new capabilities.
 *   **`floor/`**: As you work your magic, created **artifacts** accumulate here.
+*   **`box/`**: A magic **Box**. You can place any item in here for the Spirit to examine. But be warned: its contents may be mysterious or even dangerous. Handle with care.
 *   **`system/`**: The heart of the magic, containing the **Spellbook**, **Ritual Spells**, the **Chronicles**, and the collected **Lore**.
 
 ---
